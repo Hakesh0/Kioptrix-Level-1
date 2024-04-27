@@ -9,7 +9,7 @@ This repository contains detailed instructions and commands for enumerating and 
 3. `kioptrix_vulnerability_scan.md`: Detailed explanation of vulnerability scanning using `nikto`, including commands for finding vulnerabilities in the target machine.
 4. `kioptrix_directory_brute_forcing.md`: Detailed explanation of directory brute-forcing using `dirbuster`, including commands for finding all possible files and directories on the target machine.
 5. `kioptrix_smb_enum.md`: Detailed explanation of SMB enumeration, including commands for identifying the SMB version and connecting to SMB shares.
-6. `kioptrix_ssh_connection.md`: Detailed explanation of SSH connection attempts, including methods to connect and potential issues encountered.
+6. `kioptrix_ssh_and_vulns.md`: Instructions for SSH connection and vulnerability research.
 
 ## Why it's used
 - `arp-scan` and `netdiscover` are used to discover the IP address of the Kioptrix machine within the network.
@@ -29,4 +29,4 @@ This repository contains detailed instructions and commands for enumerating and 
 - `kioptrix_vulnerability_scan.md`: Detailed explanation of vulnerability scanning using `nikto`.
 - `kioptrix_directory_brute_forcing.md`: Detailed explanation of directory brute-forcing using `dirbuster`.
 - `kioptrix_smb_enum.md`: Detailed explanation of SMB enumeration.
-- `kioptrix_ssh_connection.md`: Detailed explanation of SSH connection attempts.
+- `kioptrix_ssh_and_vulns.md`: Instructions for SSH connection and vulnerability research.
