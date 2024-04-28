@@ -37,5 +37,4 @@
   ```
 - **Purpose**: Attempts to connect to the specified SMB shares on the target machine.
 
-You can save this content in a Markdown file in your repository and update your README.md file to include this new file. Let me know if you need any more help!
-```
+
