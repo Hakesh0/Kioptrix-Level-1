@@ -10,6 +10,8 @@ This repository contains detailed instructions and commands for enumerating and 
 4. `kioptrix_directory_brute_forcing.md`: Detailed explanation of directory brute-forcing using `dirbuster`, including commands for finding all possible files and directories on the target machine.
 5. `kioptrix_smb_enum.md`: Detailed explanation of SMB enumeration, including commands for identifying the SMB version and connecting to SMB shares.
 6. `kioptrix_ssh_and_vulns.md`: Instructions for SSH connection and vulnerability research.
+7. `kioptrix_nessus_scan.md`: Instructions for installing and using Nessus for vulnerability scanning.
+8. `kioptrix_exploitation.md`: Instructions for exploiting the Kioptrix machine to gain root access using Metasploit.
 
 ## Why it's used
 - `arp-scan` and `netdiscover` are used to discover the IP address of the Kioptrix machine within the network.
@@ -18,6 +20,8 @@ This repository contains detailed instructions and commands for enumerating and 
 - `dirbuster` is used for directory brute-forcing to find all possible files and directories on the target machine.
 - SMB enumeration is used to identify the SMB version and connect to SMB shares.
 - SSH connection attempts are used to establish an SSH connection to the target machine.
+- Nessus is used for vulnerability scanning to identify potential security issues in the target machine.
+- Metasploit is used for exploiting vulnerabilities and gaining access to the target machine.
 
 ## Additional Information
 - **Purpose**: The purpose of this guide is to educate and enable users to conduct ethical penetration testing practices.
@@ -30,3 +34,5 @@ This repository contains detailed instructions and commands for enumerating and 
 - `kioptrix_directory_brute_forcing.md`: Detailed explanation of directory brute-forcing using `dirbuster`.
 - `kioptrix_smb_enum.md`: Detailed explanation of SMB enumeration.
 - `kioptrix_ssh_and_vulns.md`: Instructions for SSH connection and vulnerability research.
+- `kioptrix_nessus_scan.md`: Instructions for installing and using Nessus for vulnerability scanning.
+- `kioptrix_exploitation.md`: Instructions for exploiting the Kioptrix machine to gain root access using Metasploit.
