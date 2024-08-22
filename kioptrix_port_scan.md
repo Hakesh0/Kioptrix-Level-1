@@ -1,6 +1,6 @@
 # Kioptrix Level 1 - Port Scanning
 
-## Scanning for Open Ports
+## Nmap scans for Open Ports
 - **nmap -T4 -p- -A 192.168.30.128**: Use `nmap` to perform a thorough scan with aggressive options, including scanning all ports and enabling OS detection, version detection, script scanning, and traceroute.
 
 ### Explanation
