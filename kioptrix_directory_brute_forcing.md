@@ -2,7 +2,7 @@
 
 ## DirBuster
 - **Command**: `dirbuster& (paste: http://192.168.30.128:80/ - port is important)`
-- **Result**: 
+- **Results**: 
   - While DirBuster is running, open Burp Suite and try to find server information.
   - After DirBuster is complete, enumerate all the files and try to find information.
 
