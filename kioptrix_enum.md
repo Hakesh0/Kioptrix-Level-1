@@ -9,5 +9,5 @@
 ## Discovering the IP Address (Alternate Method)
 - **netdiscover -r 192.168.30.0/24**: Use `netdiscover` to discover devices on the network within the specified IP range.
 
-### Explanation
+### Explanation:
 - **netdiscover**: Network scanning tool that sends packets on the network and listens for responses, helping you discover devices within a specified IP range.
