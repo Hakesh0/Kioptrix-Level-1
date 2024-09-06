@@ -11,7 +11,7 @@ This repository contains detailed instructions and commands for enumerating and 
 5. `kioptrix_smb_enum.md`: Detailed explanation of SMB enumeration, including commands for identifying the SMB version and connecting to SMB shares.
 6. `kioptrix_ssh_and_vulns.md`: Instructions for SSH connection and vulnerability research.
 7. `kioptrix_nessus_scan.md`: Instructions for installing and using Nessus for vulnerability scanning.
-8. `kioptrix_exploitation.md`: Instructions for exploiting the Kioptrix machine to gain root access using Metasploit.
+8. `kioptrix_exploitation.md`: Instructions for exploiting the Kioptrix machine to gain root access using Metasploit .
 
 ## Why it's used
 - `arp-scan` and `netdiscover` are used to discover the IP address of the Kioptrix machine within the network.
